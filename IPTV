@@ -1,0 +1,143 @@
+#EXTM3U
+
+#EXTINF:-1,TV One
+https://youtu.be/WmFNtQs7X-U
+
+#EXTINF:-1,Kompas TV
+https://youtu.be/gIB2egm7tL8
+
+#EXTINF:-1,Net TV
+https://www.youtube.com/watch?v=WZ83bBwWZQY
+
+#EXTINF:-1,Metro TV
+http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,Berita Satu
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w672934803_b384000_sleng.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,Daai TV
+http://e1-hk-1.nim.mivo.tv/daaitv/daaitv2_all/skrz1j8exe/daaitv2_576p/chunks.m3u8
+
+#EXTINF:-1,Metro TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+
+#EXTINF:-1,Disney Junior Indonesia
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,MNC TV
+http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,RCTI
+http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,SCTV
+http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,Trans 7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w464718372_b384000_sleng.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,Trans TV
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,Indosiar
+http://202.80.222.179/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,ANTV
+http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,Jak TV
+http://202.80.222.169:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,GTV
+http://202.80.222.174/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,TVRI
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,Channel News Asia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,Channel 8
+https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,Channel U
+https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,NHK World 
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,ABC News
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/9013.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,FOX News
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6427.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,CNBC
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6410.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,CNN
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6411.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,Bloomberg
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,SBS International
+https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,CCTV4
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/9783.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,CGTN
+http://iptv1.privateiptv.club:80/live/freeview/freeview/858.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,CBS
+http://cbs-live.gscdn.com:1935/cbs-live/cbs-live.stream/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,Discovery Channel
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/9509.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,Discovery Kids
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/9019.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,National Georaphic Wild
+http://ingrid.ltd:25461/live/Gilberto1/Gilberto/42046.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,National Georaphic
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6938.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,Disney Channel
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/2764.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,Disney XD
+http://ingrid.ltd:25461/live/Gilberto1/Gilberto/5724.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,Disney Junior
+http://ingrid.ltd:25461/live/Gilberto1/Gilberto/42512.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,Cartoon Network
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/9017.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,Nickelodeon
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/1537.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,Nick Junior
+http://ingrid.ltd:25461/live/Gilberto1/Gilberto/42090.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,HBO
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/827.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,HBO Family
+http://ingrid.ltd:25461/live/Gilberto1/Gilberto/42390.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,HBO Signature
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6308.m3u8?checkedby:iptvcat.com
+
