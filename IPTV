@@ -36,8 +36,7 @@ https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master.m3u8?checkedby:iptvcat.c
 #EXTINF:-1,Bloomberg TV
 https://youtu.be/iyOq8DhaMYw
 
-#EXTINF:-1,NHK World 
-https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,NHK World https://www3.nhk.or.jp/nhkworld/en/live/
 
 #EXTINF:-1,ABC News
 http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/9013.m3u8?checkedby:iptvcat.com
